@@ -1,6 +1,6 @@
 {
     "$schema": "./schema.json",
-    "version": 0,
+    "version": 1,
     "keybinds": [
         {
             "name": "Auction House",
@@ -35,7 +35,7 @@
         },
         {
             "name": "Join Floor 1",
-            "category": "SBK - Party",
+            "category": "SBK - Dungeons",
             "command": "joindungeon catacombs 1"
         },
         {
