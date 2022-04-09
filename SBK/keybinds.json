@@ -1,6 +1,6 @@
 {
-    "$schema": "./schema.json",
-    "version": 1,
+    "$schema": "https://raw.githubusercontent.com/MisterCheezeCake/RemoteData/main/SBK/schema.json",
+    "version": 2,
     "keybinds": [
         {
             "name": "Auction House",
@@ -326,7 +326,7 @@
         {
             "name": "Sea Creature Guide",
             "category": "SBK - General SkyBlock",
-            "command": ""
+            "command": "scg"
         },
         {
             "name": "SkyBlock Settings",
@@ -397,5 +397,35 @@
             "name": "Bingo",
             "category": "SBK - General SkyBlock",
             "command": "bingo"
+        },
+        {
+            "name": "Wiki in Hand",
+            "category": "SBK - General SkyBlock",
+            "command": "wikiinhand"
+        },
+        {
+            "name": "Potions Menu",
+            "category": "SBK - General SkyBlock",
+            "command": "potions"
+        },
+        {
+            "name": "Sack of Sacks",
+            "category": "SBK - General SkyBlock",
+            "command": "sacks"
+        },
+        {
+            "name": "View Commission Milestones",
+            "category": "SBK - Dwarven Mines",
+            "command": "viewcommissionmilestones"
+        },
+        {
+            "name": "Undo Last Zap",
+            "category": "SBK - Building",
+            "command": "undozap"
+        },
+        {
+            "name": "Undo Last Grand Architect",
+            "category": "SBK - Building",
+            "command": "undograndarchitect"
         }
 ]}
