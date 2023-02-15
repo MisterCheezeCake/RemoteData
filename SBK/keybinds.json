@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/MisterCheezeCake/RemoteData/main/SBK/schema.json",
-    "version": 2,
+    "version": 3,
     "keybinds": [
         {
             "name": "Auction House",
@@ -119,7 +119,7 @@
             "command": "warp spider"
         },
         {
-            "name": "Blazing Fortress",
+            "name": "Crimson Isle",
             "category": "SBK - Warps",
             "command": "warp nether"
         },
@@ -189,9 +189,9 @@
             "command": "warp castle"
         },
         {
-            "name": "Magma Boss Arena",
+            "name": "Forgotten Skull",
             "category": "SBK - MVP+ Warps",
-            "command": "warp magma"
+            "command": "warp kuudra"
         },
         {
             "name": "Dark Auction",
@@ -427,5 +427,65 @@
             "name": "Undo Last Grand Architect",
             "category": "SBK - Building",
             "command": "undograndarchitect"
+        },
+        {
+            "name": "Accessory Bag",
+            "category": "SBK - Bags",
+            "command": "abag"
+        },
+        {
+            "name": "Fishing Bag",
+            "category": "SBK - Bags",
+            "command": "fbag"
+        },
+        {
+            "name": "Potion Bag",
+            "category": "SBK - Bags",
+            "command": "pbag"
+        },
+        {
+            "name": "Quiver",
+            "category": "SBK - Bags",
+            "command": "quiv"
+        },
+        {
+            "name": "Sack of Sacks",
+            "category": "SBK - Bags",
+            "command": "sacks"
+        },
+        {
+            "name": "Wasteland",
+            "category": "SBK - MVP+ Warps",
+            "command": "warp wasteland"
+        },
+        {
+            "name": "Dragontail",
+            "category": "SBK - MVP+ Warps",
+            "command": "warp dragontail"
+        },
+        {
+            "name": "Scarleton",
+            "category": "SBK - MVP+ Warps",
+            "command": "warp scarleton"
+        },
+        {
+            "name": "Smoldering Tomb",
+            "category": "SBK - MVP+ Warps",
+            "command": "warp smold"
+        },
+        {
+            "name": "Trapper's Den",
+            "category": "SBK - MVP+ Warps",
+            "command": "warp trapper"
+        },
+        {
+            "name": "Crystal Nucleus",
+            "category": "SBK - MVP+ Warps",
+            "command": "warp nucleus"
+        },
+        {
+            "name": "Trades Menu",
+            "category": "SBK - General SkyBlock",
+            "command": "trades"
         }
 ]}
