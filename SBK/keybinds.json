@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/MisterCheezeCake/RemoteData/main/SBK/schema.json",
-    "version": 3,
+    "version": 4,
     "keybinds": [
         {
             "name": "Auction House",
@@ -487,5 +487,30 @@
             "name": "Trades Menu",
             "category": "SBK - General SkyBlock",
             "command": "trades"
+        },
+        {
+            "name": "Desk",
+            "category": "SBK - General SkyBlock",
+            "command": "desk"
+        },
+        {
+            "name": "Garden",
+            "category": "SBK - Warps",
+            "command": "warp garden"
+        },
+        {
+            "name": "Wizard Tower",
+            "category": "SBK - MVP+ Warps",
+            "command": "warp wizard"
+        },
+        {
+            "name": "Hex",
+            "category": "SBK - General SkyBlock",
+            "command": "hex"
+        },
+        {
+            "name": "Arachne",
+            "category": "SBK - MVP+ Warps",
+            "command": "arachne"
         }
 ]}
