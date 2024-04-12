@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/MisterCheezeCake/RemoteData/main/SBK/schema.json",
-    "version": 5,
+    "version": 6,
     "keybinds": [
         {
             "name": "Auction House",
@@ -552,5 +552,10 @@
             "name": "Elizabeth",
             "category": "SBK - Warps",
             "command": "warp elizabeth"
+        },
+        {
+            "name": "Dwarven Base Camp",
+            "category": "SBK - Warps",
+            "command": "warp camp"
         }
 ]}
