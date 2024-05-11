@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/MisterCheezeCake/RemoteData/main/SBK/schema.json",
-    "version": 6,
+    "version": 7,
     "keybinds": [
         {
             "name": "Auction House",
@@ -557,5 +557,16 @@
             "name": "Dwarven Base Camp",
             "category": "SBK - Warps",
             "command": "warp camp"
+        },
+        {
+            "name": "RNG Meter",
+            "category": "SBK - General SkyBlock",
+            "command": "rngmeter"
+        },
+        {
+            "name": "Chocolate Factory",
+            "category": "SBK - General SkyBlock",
+            "command": "chocolatefactory"
         }
+        
 ]}
