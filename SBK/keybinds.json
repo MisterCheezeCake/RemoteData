@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/MisterCheezeCake/RemoteData/main/SBK/schema.json",
-    "version": 7,
+    "version": 8,
     "keybinds": [
         {
             "name": "Auction House",
@@ -567,6 +567,36 @@
             "name": "Chocolate Factory",
             "category": "SBK - General SkyBlock",
             "command": "chocolatefactory"
+        },
+        {
+            "name": "Stonks Market",
+            "category": "SBK - Warps",
+            "command": "warp stonks"
+        },
+        {
+            "name": "Bank",
+            "category": "SBK - General SkyBlock",
+            "command": "bank"
+        },
+        {
+            "name": "Widgets Menu",
+            "category": "SBK - General SkyBlock",
+            "command": "widgets"
+        },
+        {
+            "name": "RNG Meter",
+            "category": "SBK - General SkyBlock",
+            "command": "rngmeter"
+        },
+        {
+            "name": "Co-Op Chat",
+            "category": "SBK - Chats",
+            "command": "chat coop"
+        },
+        {
+            "name": "Warp to Don Expresso",
+            "category": "SBK - Dwarven Mines",
+            "command": "tptodonexpresso"
         }
         
 ]}
