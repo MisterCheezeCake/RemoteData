@@ -1,26 +1,15 @@
 {
     "enabled": true,
     "latestAlpha": {
-        "type": "ALPHA",
-        "major": 0,
-        "minor": 1,
-        "patch": 0,
-        "build": 1,
+        "versionString": "0.1.0-Alpha.1",
         "modrinthName": "0.1.0-Alpha.1"
     },
     "latestBeta": {
-        "type": "BETA",
-        "major": 0,
-        "minor": 1,
-        "patch": 0,
-        "build": 1,
+        "versionString": "0.1.0-Beta.1",
         "modrinthName": "0.1.0-Beta.1"
     },
     "latestRelease": {
-        "type": "RELEASE",
-        "major": 0,
-        "minor": 1,
-        "patch": 0,
+        "versionString": "0.1.0",
         "modrinthName": "0.1.0"
     }
 }
