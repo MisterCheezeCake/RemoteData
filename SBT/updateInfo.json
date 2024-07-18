@@ -1,8 +1,12 @@
 {
-  "latestAlpha" : "0.1.0-Alpha.1",
-  "laName": "0.1.0-Alpha.1",
-  "latestBeta" : "none",
-  "lbName": "none",
-  "latestRelease" : "none",
-  "lrName": "none"
+    "latestAlpha": {
+        "type": "ALPHA",
+        "major": 0,
+        "minor": 1,
+        "patch": 0,
+        "build": 1,
+        "modrinthName": "0.1.0-Alpha.1"
+    },
+    "latestBeta":null,
+    "latestRelease": null
 }
