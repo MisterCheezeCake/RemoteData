@@ -1,13 +1,9 @@
 {
     "enabled": true,
     "latestAlpha": {
-        "type": "ALPHA",
-        "major": 0,
-        "minor": 1,
-        "patch": 0,
-        "build": 1,
-        "modrinthName": "0.1.0-Alpha.1"
+        "versionString": "0.1.0-Alpha.2",
+        "modrinthName": "0.1.0-Alpha.2"
     },
-    "latestBeta":null,
+    "latestBeta": null,
     "latestRelease": null
 }
