@@ -1,4 +1,5 @@
 {
+    "enabled": true,
     "latestAlpha": {
         "type": "ALPHA",
         "major": 0,
