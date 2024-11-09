@@ -5,13 +5,11 @@
       "versionString": "0.1.0-Alpha.8",
       "modrinthName": "0.1.0-Alpha.8+1.21.1"
     },
-    "1.21.3" {
+    "1.21.3": {
       "versionString": "0.1.0-Alpha.8",
       "modrinthName": "0.1.0-Alpha.8+1.21.3"
     }
-    
-
-  }
-  "latestBeta": null,
-  "latestRelease" null 
+  }, 
+  "latestBeta": null, 
+  "latestRelease": null
 }
