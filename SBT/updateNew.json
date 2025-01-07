@@ -2,12 +2,16 @@
   "enabled": true,
   "latestAlpha": {
     "1.21.1": {
-      "versionString": "0.1.0-Alpha.8",
-      "modrinthName": "0.1.0-Alpha.8+1.21.1"
+      "versionString": "0.1.0-Alpha.9",
+      "modrinthName": "0.1.0-Alpha.9+1.21.1"
     },
     "1.21.3": {
-      "versionString": "0.1.0-Alpha.8",
-      "modrinthName": "0.1.0-Alpha.8+1.21.3"
+      "versionString": "0.1.0-Alpha.9",
+      "modrinthName": "0.1.0-Alpha.9+1.21.3"
+    },
+    "1.21.4": {
+      "versionString": "0.1.0-Alpha.9",
+      "modrinthName": "0.1.0-Alpha.9+1.21.3"
     }
   }, 
   "latestBeta": null, 
