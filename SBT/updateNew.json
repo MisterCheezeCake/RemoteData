@@ -3,15 +3,15 @@
   "latestAlpha": {
     "1.21.1": {
       "versionString": "0.1.0-Alpha.10",
-      "modrinthName": "0.1.0-Alpha.10+1.21.1"
+      "modrinthName": "0.1.0-Alpha.10+mc1.21.1"
     },
     "1.21.3": {
       "versionString": "0.1.0-Alpha.10",
-      "modrinthName": "0.1.0-Alpha.10+1.21.3"
+      "modrinthName": "0.1.0-Alpha.10+mc1.21.3"
     },
     "1.21.4": {
       "versionString": "0.1.0-Alpha.10",
-      "modrinthName": "0.1.0-Alpha.10+1.21.3"
+      "modrinthName": "0.1.0-Alpha.10+mc1.21.3"
     }
   }, 
   "latestBeta": null, 
