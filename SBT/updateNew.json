@@ -14,12 +14,16 @@
       "upgradeTo": "1.21.5"
     },
     "1.21.4": {
-      "versionString": "0.1.0-Alpha.15",
-      "modrinthName": "0.1.0-Alpha.15+mc1.21.4"
+      "versionString": "0.1.0-Alpha.16",
+      "modrinthName": "0.1.0-Alpha.16+mc1.21.4"
     },
     "1.21.5": {
-      "versionString": "0.1.0-Alpha.15",
-      "modrinthName": "0.1.0-Alpha.15+mc1.21.5"
+      "versionString": "0.1.0-Alpha.16",
+      "modrinthName": "0.1.0-Alpha.16+mc1.21.5"
+    },
+    "1.21.6": {
+      "versionString": "0.1.0-Alpha.16",
+      "modrinthName": "0.1.0-Alpha.16+mc1.21.6"
     }
   }, 
   "latestBeta": null, 
