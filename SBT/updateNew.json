@@ -5,27 +5,40 @@
       "versionString": "0.1.0-Alpha.14",
       "modrinthName": "0.1.0-Alpha.14+mc1.21.1",
       "lastSupported": true,
-      "upgradeTo": "1.21.5"
+      "upgradeTo": "1.21.10"
     },
     "1.21.3": {
       "versionString": "0.1.0-Alpha.11",
       "modrinthName": "0.1.0-Alpha.11+mc1.21.3",
       "lastSupported": true,
-      "upgradeTo": "1.21.5"
+      "upgradeTo": "1.21.10"
     },
     "1.21.4": {
       "versionString": "0.1.0-Alpha.16",
       "modrinthName": "0.1.0-Alpha.16+mc1.21.4",
       "lastSupported": true,
-      "upgradeTo": "1.21.5"
+      "upgradeTo": "1.21.10"
     },
     "1.21.5": {
       "versionString": "0.1.0-Alpha.17",
-      "modrinthName": "0.1.0-Alpha.17+mc1.21.5"
+      "modrinthName": "0.1.0-Alpha.17+mc1.21.5",
+      "lastSupported": true,
+      "upgradeTo": "1.21.10"
+      
     },
     "1.21.6": {
       "versionString": "0.1.0-Alpha.17",
-      "modrinthName": "0.1.0-Alpha.17+mc1.21.6"
+      "modrinthName": "0.1.0-Alpha.17+mc1.21.6",
+      "lastSupported": true,
+      "upgradeTo": "1.21.10"
+    },
+    "1.21.8": {
+      "versionString": "0.1.0-Alpha.18",
+      "modrinthName": "0.1.0-Alpha.18+mc1.21.8"
+    },
+    "1.21.10": {
+      "versionString": "0.1.0-Alpha.18",
+      "modrinthName": "0.1.0-Alpha.18+mc1.21.10"
     }
   }, 
   "latestBeta": null, 
