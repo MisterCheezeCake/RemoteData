@@ -33,12 +33,16 @@
       "upgradeTo": "1.21.10"
     },
     "1.21.8": {
-      "versionString": "0.1.0-Alpha.18",
-      "modrinthName": "0.1.0-Alpha.18+mc1.21.8"
+      "versionString": "0.1.0-Alpha.19",
+      "modrinthName": "0.1.0-Alpha.19+mc1.21.9"
     },
     "1.21.10": {
-      "versionString": "0.1.0-Alpha.18",
-      "modrinthName": "0.1.0-Alpha.18+mc1.21.10"
+      "versionString": "0.1.0-Alpha.19",
+      "modrinthName": "0.1.0-Alpha.19+mc1.21.11"
+    },
+    "1.21.11": {
+      "versionString": "0.1.0-Alpha.19",
+      "modrinthName": "0.1.0-Alpha.19+mc1.21.11"
     }
   }, 
   "latestBeta": null, 
